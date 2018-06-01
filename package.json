@@ -1,0 +1,22 @@
+{
+  "name": "react-naitve-imagetest",
+  "version": "1.0.1",
+  "description": "crop image ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phlls/imageTest.git"
+  },
+  "keywords": [
+    "circleimagemaker"
+  ],
+  "author": "phlls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phlls/imageTest/issues"
+  },
+  "homepage": "https://github.com/phlls/imageTest#readme"
+}
